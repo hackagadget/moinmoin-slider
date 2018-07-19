@@ -1,0 +1,16 @@
+MoinMoin - Slider Macro
+
+Copyright (c) 2015 Stephen J. Kiernan
+
+See COPYING for license term details.
+
+Installation:
+1. Copy the Slider.py file to your MoinMoin plugin/macro directory.
+2. Grab the jssor.slider.min.js file from https://github.com/jssor/slider
+   (under the js directory)
+3. Copy jssor.slider.min.js to the common/js directory in the static files
+   area of MoinMoin (usually web/static/htdocs/common/js in the MoinMoin
+   python module installation directory.)
+
+See the comments in the Slider.py file for usage information.
+
