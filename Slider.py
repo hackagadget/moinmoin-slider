@@ -3,7 +3,7 @@
     MoinMoin - Slider Macro
 
     Selects a pagename from SliderContent or a given page and cycles
-    it by the refresh rate given on the page e.g. #refresh 5 ExamplePage
+    it by the refresh rate given (or 3 seconds if no interval specified.)
     For an attachment from a cycled page of name MyPage use an absolute
     name for the attachment e.g. {{attachment:MyPage/image.png}}
 
